@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+  }
+
+.container{
+    background-color: rgb(255, 255, 255);
+    padding:10px 0;
+}
+.marker{
+    height: 25px;
+  width: 200px;
+  margin: 10px auto;
+}
+
+.one{
+    background-color: rgb(255, 0, 0);
+    /* background-color: rgb(255, 255,0 ); secondary color yellow  */ 
+    /* background-color: rgb(255,127, 0);tertiary color orange */
+   /*  background-color: rgb(127,255, 0); chartreuse green (green + yellow) */
+  } 
+
+  .two{
+    background-color: rgb(0, 127, 0);
+    /* background-color: rgb(0, 255,255 ); secondary color cian  */ 
+   /*  background-color: rgb(0, 255,127); tertiary color spring green */
+  /*  background-color: rgb(0, 127, 255); azure (blue + cyan) */
+  }
+
+  .three{
+    background-color: rgb(0, 0, 255);
+    /* background-color: rgb(255,0,255 );secondary color, magenta  */
+   /*  background-color: rgb(127, 0, 255); tertiary color violet */
+   /* background-color: rgb(255, 0, 127); rose (red + magenta */
+
+  }
